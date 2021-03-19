@@ -1,0 +1,28 @@
+ERROR 2021/03/17 00:10:48 utils.go:101: sql: no rows in result set Cannot find user
+ERROR 2021/03/17 00:11:08 utils.go:101: sql: no rows in result set Cannot find user
+ERROR 2021/03/17 00:12:53 utils.go:101: sql: no rows in result set Cannot find user
+WARNING 2021/03/17 00:30:42 utils.go:106: <nil> Failed to get cookie
+WARNING 2021/03/17 00:32:46 utils.go:106: <nil> Failed to get cookie
+WARNING 2021/03/17 00:34:37 utils.go:106: <nil> Failed to get cookie
+WARNING 2021/03/17 00:36:53 utils.go:106: <nil> Failed to get cookie
+WARNING 2021/03/17 00:56:55 utils.go:106: <nil> Failed to get cookie
+WARNING 2021/03/17 00:58:12 utils.go:106: <nil> Failed to get cookie
+WARNING 2021/03/17 00:58:49 utils.go:106: <nil> Failed to get cookie
+WARNING 2021/03/17 00:59:20 utils.go:106: <nil> Failed to get cookie
+WARNING 2021/03/17 00:59:44 utils.go:106: <nil> Failed to get cookie
+WARNING 2021/03/17 01:03:46 utils.go:106: <nil> Failed to get cookie
+WARNING 2021/03/17 01:04:05 utils.go:106: <nil> Failed to get cookie
+WARNING 2021/03/17 01:04:19 utils.go:106: <nil> Failed to get cookie
+WARNING 2021/03/17 01:04:50 utils.go:106: <nil> Failed to get cookie
+WARNING 2021/03/17 01:05:17 utils.go:106: <nil> Failed to get cookie
+WARNING 2021/03/17 01:35:34 utils.go:106: <nil> Failed to get cookie
+WARNING 2021/03/17 01:38:28 utils.go:106: <nil> Failed to get cookie
+WARNING 2021/03/17 01:39:37 utils.go:106: <nil> Failed to get cookie
+ERROR 2021/03/17 01:40:00 utils.go:101: pq: duplicate key value violates unique constraint "users_email_key" Cannot create user
+WARNING 2021/03/17 01:41:48 utils.go:106: <nil> Failed to get cookie
+WARNING 2021/03/17 02:15:23 utils.go:106: <nil> Failed to get cookie
+WARNING 2021/03/17 02:17:41 utils.go:106: <nil> Failed to get cookie
+WARNING 2021/03/17 02:37:42 utils.go:106: <nil> Failed to get cookie
+WARNING 2021/03/17 02:39:52 utils.go:106: <nil> Failed to get cookie
+WARNING 2021/03/20 08:35:29 utils.go:106: <nil> Failed to get cookie
+WARNING 2021/03/20 08:41:49 utils.go:106: <nil> Failed to get cookie
